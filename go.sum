@@ -1,0 +1,17 @@
+github.com/Knetic/govaluate v1.5.0 h1:L4MyqdJSld9xr2eZcZHCWLfeIX2SBjqrwIKG1pcm/+4=
+github.com/Knetic/govaluate v3.0.0+incompatible h1:7o6+MAPhYTCF0+fdvoz1xDedhRb4f6s9Tn1Tt7/WTEg=
+github.com/Knetic/govaluate v3.0.0+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
+github.com/ncw/swift v1.0.52 h1:ACF3JufDGgeKp/9mrDgQlEgS8kRYC4XKcuzj/8EJjQU=
+github.com/ncw/swift v1.0.52/go.mod h1:23YIA4yWVnGwv2dQlN4bB7egfYX6YLn0Yo/S6zZO/ZM=
+github.com/remiberthoz/kad v0.0.0-20190902193516-0e522326ffd8 h1:PULtLHlJ6v9TT8b9yeilY0SNCxxAAIlC4lHLkSVglXM=
+github.com/remiberthoz/kad v0.0.0-20190902193516-0e522326ffd8/go.mod h1:aBZdySUX1Rcp5JULOAysheh/XG9iynhL5p8pCV8HzSg=
+github.com/swill/go.clipper v0.0.0-20160727040122-3274bcc4839c h1:sr4ewNudhajqwJwQN4p4DkuDjXAVEz4NEAfKHaM7vtE=
+github.com/swill/go.clipper v0.0.0-20160727040122-3274bcc4839c/go.mod h1:ZM1njTxz+Lbh770OBPuD7EJ0d1it9KYa61rDXiHCgZY=
+github.com/swill/kad v0.0.0-20190709180016-5b444fe53977 h1:SGmhrtRk9q9XYlYTiWu/sr+c2u7t4N7uxsUu1/iISp4=
+github.com/swill/kad v0.0.0-20190709180016-5b444fe53977/go.mod h1:hYRLXjFuFDbI2zNuTovE3GUcl/65Sb7j5vQ4o4X2BWA=
+github.com/swill/kad v0.0.0-20200107153136-1d51e0f167e1 h1:YymrUATV7hBTtUdXvkXRS9/c8/GbHPlKruCXjgfM9Cc=
+github.com/swill/kad v0.0.0-20200107153136-1d51e0f167e1/go.mod h1:hYRLXjFuFDbI2zNuTovE3GUcl/65Sb7j5vQ4o4X2BWA=
+github.com/swill/svgo v0.0.0-20150713022320-9f84ec778968 h1:wlnyZzToGPFwZw6SQHQxEAfYUyb+dyOar+MWbebdQto=
+github.com/swill/svgo v0.0.0-20150713022320-9f84ec778968/go.mod h1:SSvV4Jfl4EpJ4+llpP6jS3b0HbUSd8dj/41bifi4Mkg=
+github.com/swill/svgo v0.0.0-20150715025413-bc384fa1e849 h1:y/mkdxJaxL1b2p0ky+UlTKr45ZZ+GHgckfZjei+Lv/k=
+github.com/swill/svgo v0.0.0-20150715025413-bc384fa1e849/go.mod h1:SSvV4Jfl4EpJ4+llpP6jS3b0HbUSd8dj/41bifi4Mkg=

@@ -31,6 +31,7 @@ func main() {
 		"left-padding":15,
 		"right-padding":15,
 		"bottom-padding":5,
+		"kerf":0.2,
 		"custom": [
 			{
 				"layers": [
